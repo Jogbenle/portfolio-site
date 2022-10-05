@@ -79,3 +79,7 @@ span{
 .img-box:hover .main-img{
     left: 54%;
 }
+.social-links{
+    margin-left: 8%;
+    margin-top: 100px;
+}
